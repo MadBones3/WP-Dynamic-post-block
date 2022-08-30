@@ -1,1 +1,1 @@
-# WP-Dynamic-post-block
+﻿# WP-Gutenburg-block-boilerplate
